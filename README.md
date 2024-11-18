@@ -54,7 +54,7 @@ This project is an **interactive Kanban board application** designed using **Rea
    ```
 
 4. **Access the Application**:
-   Navigate to `http://localhost:3000` in your browser to view the application.
+   Navigate to `http://localhost:5173` in your browser to view the application.
 
 ---
 
